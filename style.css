@@ -9,3 +9,21 @@ License: GNU General Public License v2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 Text Domain: meutema-estudarti
 */
+
+header {
+    display: block;
+    width: 100%;
+    background-color: #999;
+    margin-bottom: 20px;
+}
+
+header h1 a {
+    color: #FFF;
+    font-size: 32px;
+    text-transform: uppercase;
+}
+
+footer {
+    text-align: center;
+    margin-top: 60px;
+}
